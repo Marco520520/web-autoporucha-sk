@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://autoporucha.sk/sitemap.xml
